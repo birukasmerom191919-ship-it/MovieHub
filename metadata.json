@@ -1,0 +1,6 @@
+{
+  "name": "MovieHub",
+  "description": "Production-grade AI movie and TV show discovery platform featuring TMDB browsing, official trailer modals, and Gemini AI smart recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
