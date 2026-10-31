@@ -1,4 +1,4 @@
-# MovieHub
+#🍿MovieHub
 
 An AI-powered movie and TV show discovery platform built with React, TypeScript, and Google Gemini AI.
 
